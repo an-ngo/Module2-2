@@ -33,5 +33,6 @@ public class showPicture {
                     break;
             }
         }
+        scanner.close();
     }
 }
